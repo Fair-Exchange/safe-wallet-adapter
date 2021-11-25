@@ -8,7 +8,7 @@ Library to allow SafeCoin dApps to use third-party wallets to sign transactions.
 ## Install
 
 ```bash
-npm install --save @araviel/safe-wallet-adapter
+npm install --save @safecoins/safe-wallet-adapter
 ```
 
 ## Usage
