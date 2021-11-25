@@ -1,11 +1,11 @@
 {
-  "name": "@araviel/safe-wallet-adapter",
+  "name": "@safecoins/safe-wallet-adapter",
   "version": "0.2.51",
   "description": "Library to allow Safecoin dApps to use third-party wallets to sign transactions",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/araviel-io/safe-wallet-adapter.git"
+    "url": "git+https://github.com/fair-exchange/safe-wallet-adapter.git"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
